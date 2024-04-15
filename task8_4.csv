@@ -1,0 +1,38 @@
+Make,Horsepower,Torque,Highway MPG
+Toyota,180,176,35
+Honda,190,179,33
+Ford,210,220,30
+Chevrolet,220,225,28
+Nissan,200,195,32
+Subaru,220,210,29
+Volkswagen,190,200,31
+BMW,280,290,27
+Mercedes-Benz,290,300,26
+Audi,270,280,28
+Hyundai,200,198,34
+Kia,190,195,33
+Mazda,180,185,36
+Lexus,280,275,28
+Acura,270,265,29
+Infiniti,300,305,25
+Volvo,240,250,30
+Jaguar,320,330,24
+Land Rover,310,320,23
+Porsche,350,360,22
+Tesla,400,450,20
+Lincoln,260,270,28
+Buick,230,235,30
+Cadillac,280,290,26
+GMC,250,255,29
+Chrysler,220,215,31
+Jeep,240,245,30
+Dodge,290,295,25
+RAM,260,270,28
+Aston Martin,550,560,18
+Bentley,600,610,16
+Ferrari,700,710,15
+Lamborghini,650,660,16
+McLaren,750,760,14
+Bugatti,1500,1600,10
+Koenigsegg,1600,1700,11
+Pagani,800,810,13
